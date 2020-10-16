@@ -1,0 +1,25 @@
+#Files that I don't need yet. This might change in future though
+include/*
+lib/*
+Scripts/
+pip*.json
+tcl/
+# .gitignore
+
+#Files I have been using to try stuff out. For my experimentation
+
+
+#Secret information
+*environ*
+*config*
+*.pem
+
+#information that isnt required by collaborators
+bin*
+dist*
+*egg-info*
+local*
+share*
+*.log
+log/*
+
