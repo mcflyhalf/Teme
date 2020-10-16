@@ -1,9 +1,6 @@
 #Files that I don't need yet. This might change in future though
 include/*
 lib/*
-Scripts/
-pip*.json
-tcl/
 # .gitignore
 
 #Files I have been using to try stuff out. For my experimentation
@@ -18,7 +15,7 @@ tcl/
 bin*
 dist*
 *egg-info*
-local*
+# local*
 share*
 *.log
 log/*
